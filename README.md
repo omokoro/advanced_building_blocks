@@ -1,1 +1,2 @@
-# advanced_building_blocks
+ Bubble Sort project from the The Odin Project <br>
+ http://www.theodinproject.com/ruby-programming/advanced-building-blocks
