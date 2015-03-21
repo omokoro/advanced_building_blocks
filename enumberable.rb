@@ -70,5 +70,3 @@ def multiply_els(array)
 	array.my_inject(1) { |total, element| total * element }
 
 end
-proc = Proc.new { |p| p +2 }
-puts (1..4).my_map(proc) {|x| x*2}
